@@ -1,1 +1,21 @@
+# Core libraries
 streamlit
+pandas
+numpy
+matplotlib
+plotly
+pillow
+beautifulsoup4
+requests
+base64
+
+# Finance libraries
+yfinance
+pandas-datareader
+
+# Machine Learning libraries
+scikit-learn
+tensorflow
+
+# Additional dependencies
+lxml  # Required by pandas_datareader for parsing HTML tables
