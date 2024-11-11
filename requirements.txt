@@ -14,7 +14,7 @@ pandas-datareader
 
 # Machine Learning libraries
 scikit-learn
-tensorflow-cpu
+tensorflow
 
 # Additional dependencies
 lxml  # Required by pandas_datareader for parsing HTML tables
